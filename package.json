@@ -1,0 +1,24 @@
+{
+  "author": "Maksim Chekrishov <maksim.chekrishov@gmail.com>",
+  "license": "MIT",
+  "name": "script-loader",
+  "version": "0.0.1",
+  "description": "Provide ability to load some (ussualy third party) script and wait until it will be loaded",
+  "main": "script-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maksim-chekrishov/script-loader.git"
+  },
+  "keywords": [
+    "script loader",
+    "async script loader",
+    "script load callback"
+  ],
+  "bugs": {
+    "url": "https://github.com/maksim-chekrishov/script-loader/issues"
+  },
+  "homepage": "https://github.com/maksim-chekrishov/script-loader"
+}
